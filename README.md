@@ -1,1 +1,1 @@
-# clcokUsingJavascript
+# clockUsingJavascript
